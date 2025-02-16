@@ -27,11 +27,11 @@ function Section() {
                 <li>
                   <span className="font-bold text-white">Framework:</span> Pandas, Numpy, Matplotlib, Scikit-learn</li>
                 <li>
-                  <span className="font-bold text-white">Tools:</span> Excel, PowerPoint, MySQL, Canva, Arduino, OverLeaf LaTeX</li>
+                  <span className="font-bold text-white">Tools:</span> Excel,PowerPoint,MySQL,Canva,Arduino,Git,GitHub,OverLeaf LaTeX</li>
                 <li>
                   <span className="font-bold text-white">Platform:</span> Jupyter Notebook, Visual Studio Code, IntelliJ IDEA</li>
                 <li>
-                  <span className="font-bold text-white">Soft Skills:</span> Machine Learning, DSA, Frontend Dev, Rapport Building, People Management,</li>
+                  <span className="font-bold text-white">Soft Skills:</span> Machine Learning,DSA,Frontend Dev,Rapport Building,People Management,</li>
                 <li>
                   <span className="font-bold text-white">Libraries:</span> React, Tailwind, Bootstrap</li>
               </ul>
