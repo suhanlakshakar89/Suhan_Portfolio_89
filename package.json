@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/suhanlakshakar89/Suhan_Portfolio_89.git",
   "name": "port-foliyo-project",
   "private": true,
   "version": "0.0.0",
@@ -8,11 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
+    "lucide-react": "^0.475.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5"
