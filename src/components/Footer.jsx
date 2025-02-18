@@ -1,6 +1,6 @@
 import React from 'react';
-import Callimage from '../assets/icons8-call-50.png';
-import Mailimage2 from '../assets/icons8-letter.gif';
+import Callimage from '/public/icons8-call-50.png';
+import Mailimage2 from '/public/icons8-letter.gif';
 
 
 function Footer() {
