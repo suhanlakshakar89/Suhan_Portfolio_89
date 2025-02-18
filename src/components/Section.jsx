@@ -1,7 +1,7 @@
 
 import React from 'react';
 // import { Link } from 'react-router-dom'; 
-import SuhanImage from '../assets/Suhan_Flat_1-photoroom.png';
+// import SuhanImage from '../assets/Suhan_Flat_1-photoroom.png';
 
 function Section() {
   return (
@@ -54,7 +54,7 @@ function Section() {
 
           <div className="rounded-lg overflow-hidden mt-8 md:mt-0">
             <img
-              src={SuhanImage}
+              src="/src/assets/Suhan_Flat_1-photoroom.png"
               alt="Suhan Lakshakar"
               className="object-cover h-96 w-full"
             />
