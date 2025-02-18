@@ -1,7 +1,7 @@
 
 import React from 'react';
 // import { Link } from 'react-router-dom'; 
-import SuhanImage from '/public/Suhan_Flat_1-photoroom.png';
+import SuhanImage from '../assets/Suhan_Flat_1-photoroom.png';
 
 function Section() {
   return (
